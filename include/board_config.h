@@ -25,7 +25,7 @@
 #define LORA_MISO 13
 #define LORA_RST 17
 #define LORA_DI0 18
-#define LORA_DI1 14
+#define LORA_DI1 14 // has to be briged on the old board
 #define UNUSED_PIN 0xFF
 #define LORA_PIN_RXTX UNUSED_PIN
 
